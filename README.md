@@ -13,5 +13,21 @@ Compared the difference between the state’s average temperature and its effect
 We also looked at different counties,within a state, to see how different weather patterns across a state affects the crop’s yield.
 
 
-
 ![US states](Images/USMap.png)
+
+## The Questions Asked
+
+1. What temperature produces the highest yield for our crops?
+2. What months produce the most yield for our crops?
+3. At what perception will the crop yield the most?
+4.  What states tend to have better temperature / precipitation for the best yield of crops?
+5. What does the crop growth look like with higher/lower precipitation/weather?
+
+
+## The Conclusion
+
+There was little correlation between the weather data we analyzed and crop yields.
+
+Some of the reasons for this could be not well enough aligned weather data time period to crop development, using max temp vs average, inability to control for different soil types or farming techniques, use of different seed types or equipment.
+
+We do not have enough of a relationship to use this data to forecast crop yields based on weather and would need to do further analysis.
