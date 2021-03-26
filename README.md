@@ -24,6 +24,14 @@ We also looked at different counties,within a state, to see how different weathe
 5. What does the crop growth look like with higher/lower precipitation/weather?
 
 
+
+## The Data
+
+We gathered precipitation and temperature data for counties in five states (Missouri, Illinois, Kansas, Texas and  Iowa) from National Centers for Environmental Information - National Oceanic and Atmospheric Administration: https://www.ncdc.noaa.gov/data-access
+
+We pulled annual crop yield data by county for three crops (corn, soybeans, wheat) from United States Department of Agriculture - National Agricultural Statistics Service - Quick Stats:   https://quickstats.nass.usda.gov/
+
+
 ## The Conclusion
 
 There was little correlation between the weather data we analyzed and crop yields.
